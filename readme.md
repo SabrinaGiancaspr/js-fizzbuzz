@@ -6,11 +6,9 @@
   -stampo in console 
 
 -SE sono multipli di 3 
-  -stampo FIZZ 
+  -stampo Fizz   
 ALTRIMENTI SE sono multipli di 5 
-  -stampo BUZZ
+  -stampo Buzz
 -SE sono multipli di 5 e di 3 stampo FIZZBUZZ 
 
--assegno variabile
--dichiaro variabile con indicati 3 o 5 
-  -quindi const resto = i % 3/5 
+
